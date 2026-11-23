@@ -1,0 +1,30 @@
+{
+  "nota": "PRECIOS FICTICIOS PARA DEMOSTRACION ACADEMICA. NO SON COTIZACIONES REALES NI OFERTAS.",
+  "soat": {
+    "auto_particular": {
+      "descripcion": "Auto particular",
+      "precio_anual_pen": 135
+    },
+    "moto": {
+      "descripcion": "Motocicleta",
+      "precio_anual_pen": 490
+    }
+  },
+  "vehicular": {
+    "basico": {
+      "nombre": "Básico",
+      "precio_mensual_desde_pen": 95,
+      "coberturas": "Responsabilidad civil y asistencias referenciales; validar condiciones"
+    },
+    "intermedio": {
+      "nombre": "Intermedio",
+      "precio_mensual_desde_pen": 155,
+      "coberturas": "Incluye coberturas referenciales de robo parcial sujetas a condiciones"
+    },
+    "premium": {
+      "nombre": "Premium",
+      "precio_mensual_desde_pen": 235,
+      "coberturas": "Amplía coberturas referenciales y asistencias; validar condiciones"
+    }
+  }
+}

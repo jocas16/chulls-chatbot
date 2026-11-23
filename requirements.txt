@@ -1,0 +1,12 @@
+# Servidor web / API
+fastapi>=0.115,<1
+uvicorn>=0.30,<1
+# IA: LangChain + cliente OpenAI-compatible para DeepSeek
+langchain-core>=0.3,<2
+langchain-openai>=0.3,<2
+# Configuración y modelos
+python-dotenv>=1,<2
+pydantic>=2,<3
+# Pruebas
+pytest>=8,<10
+httpx>=0.27,<1

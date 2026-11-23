@@ -1,0 +1,19 @@
+# Secretos
+.env
+
+# Entornos y caché de Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Base de datos local (se genera al ejecutar)
+data/*.db
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
